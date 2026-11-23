@@ -8,7 +8,7 @@ metadata:
   version: 0.2.1
   category: ai
   description: "ACRYL ADE, the Agent Development Environment: the ACRYL IDE as a Blend. Projects and git worktrees on the left, chats, terminals and coding agents as tabs, the changed files, review and files on the right."
-  visibility: private
+  visibility: public
 spec:
   runtime: cordis
   parameters:
