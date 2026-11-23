@@ -1,3 +1,9 @@
+![ACRYL ADE: the workbench with the chat panel](docs/workshop-screenshot.png)
+
+**ACRYL ADE by Andreas Petersson**, a community instance made at the [ACRYL Bootcamp](https://github.com/acrylworkshop/bootcamp-2026-11-20), Vienna, 20 November 2026.
+
+---
+
 # ACRYL ADE
 
 **ACRYL ADE**, the Agent Development Environment: the ACRYL IDE (<https://github.com/acryldev/acryl>) as one Blend. Registry id `acryl.ade`. Home: <https://github.com/acrylblends/05-acryl-ade> (releases). Source: <https://github.com/acryldev/acryl/tree/main/apps/acryl-ade> (the ACRYL monorepo). Page: <https://acrylblends.github.io/blends/ai/ade/acryl.ade>.
